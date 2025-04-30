@@ -1,4 +1,8 @@
-## Hi there 👋
+## Por trás do código
+💻 Estudante focado em programação e olimpíadas
+🚀 Comprometido com a excelência e a performance técnica
+📚 Em constante evolução para atuar nos mais altos níveis
+
 
 <!--
 **Davghost/Davghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
