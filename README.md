@@ -1,7 +1,7 @@
-## Por trás do código
-💻 Estudante focado em programação e olimpíadas
-🚀 Comprometido com a excelência e a performance técnica
-📚 Em constante evolução para atuar nos mais altos níveis
+## Behind the Code
+Student focused on programming and Olympiads
+Committed to excellence and technical performance
+Constantly evolving to perform at the highest levels
 
 
 <!--
