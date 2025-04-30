@@ -1,6 +1,6 @@
 ## Behind the Code
-Student focused on programming and Olympiads
-Committed to excellence and technical performance
+Student focused on programming and Olympiads. 
+Committed to excellence and technical performance. 
 Constantly evolving to perform at the highest levels
 
 
